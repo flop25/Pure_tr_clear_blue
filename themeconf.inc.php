@@ -1,7 +1,7 @@
 <?php
 /*
 Theme Name: Pure_tr_clear_blue
-Version: 1.0.1
+Version: 1.0.2
 Description: Similar to Pure_clear_blue, this style has rounded corners, an image as background (which can be changed), a blue dominance ...
 Theme URI: http://fr.piwigo.org/ext/extension_view.php?eid=386
 Author: flop25
