@@ -1,4 +1,6 @@
-/* $Id: theme.css 1900 2007-06-21 flop25 $ */
+.pwg-icon {
+	background-image: url(icon/SPRITE.png);
+}
 /* text color */
 BODY, H1, H2, H3, DT,
 INPUT.rateButtonSelected /* <= why IE doesn't inherit this ? */ {
